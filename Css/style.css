@@ -1,0 +1,326 @@
+body{
+   background-color: black;
+}
+.section-1{
+    background-image: url(../images/grayscale-photo-of-man-in-black-v-neck-shirt-with-black-background\ 1.png);
+    background-repeat: no-repeat;
+    height: 660px;
+    margin-top: -25px;
+}
+.section-1 > .navbar > .navbar-nav > .nav-item > .nav-link{
+    font-family: Exo 2;
+
+    font-size: 25px;
+    margin-left: 40px;
+    padding-left: 20px;
+}
+.nav-item > .nav-link:hover{
+    cursor: pointer;
+    color: #FFC513;
+}
+.nav-item > .nav-link{
+    color: white;
+}
+.section-1 > .container > .row > .col-8{
+    height: 600px;
+}
+.section-1 > .container > .row > .col-8 > .name{
+    color: #FFC513;
+    font-size: 80px;
+    font-family: Cormorant;
+    margin-top: 80px;
+}
+.section-1 > .container > .row > .col-8 > .about{
+    color: white;
+    width: 500px;
+    font-size: 20px;
+}
+.section-1 > .container > .row > .col-8 > .readmore{
+    color: #FFC513;
+    text-decoration: none;
+    font-size: 25px;
+}
+.section-2 > .container > .row > .col-6 > .sec2img1{
+    height: 550px;
+    margin-top: -20px;
+}
+.section-2{
+    background-color: black;
+}
+.section-2 > .container > .row > .col-6 > .sec2img2{
+    height: 90px;
+    margin-left: -300px;
+    margin-top: 50px;
+}
+.section-2 > .container > .row > .col-6 > .aboutme{
+    font-size: 70px;
+    color: #FFC513;
+    margin-top: -60px;
+    margin-left: 45px;
+    width: 500px;
+}
+.section-2 > .container > .row > .col-6 > .yellowline{
+    width: 320px;
+    height: 5px;
+    margin-left: 65px;
+}
+.section-2 > .container > .row > .col-6 > .sec2-text{
+    width: 330px;
+    margin-left: 70px;
+    margin-top: 23px;
+}
+.sec2-text{
+    color: white;
+}
+.section-2 > .container > .row > .col-6 > .bottom > .yellowlinesmall{
+    width: 160px;
+    height: 5px;
+    margin-left: 65px;
+}
+.section-2 > .container > .row > .col-6 > .bottom{
+    display: flex;
+}
+.section-2 > .container > .row > .col-6 > .bottom > p{
+    margin-left: 15px;
+    color: #FFC513;
+    margin-top: -10px;
+}
+.section-3{
+    background-color: black;
+}
+.section-3 > .container > .row > .col > .patalok > img{
+    margin-top: 30px;
+    width: 795px;
+    margin-left: 147px;
+}
+.section-3 > .container > .row > .col > .patalok > .portfolio{
+    font-size: 70px;
+    color: #FFC513;
+    width: 600px;
+    margin-left: 330px;
+    margin-top: -50px;
+}
+.section-3 > .container > .row > .col > .sec3-images{
+    margin-top: 70px;
+}
+.section-3 > .container > .row > .col > .sec3-images > .img-1{
+  width: 300px;
+  margin-top: -50px;
+  margin-left: 90px;
+}
+.section-3 > .container > .row > .col > .sec3-images > .img-2{
+    width: 250px;
+    margin-left: 50px;
+    margin-top: 50px;
+}
+.section-3 > .container > .row > .col > .sec3-images > .img-3{
+    width: 350px;
+    margin-left: 50px;
+    margin-top: -60px;
+}
+.section-3 > .container > .row > .col > .sec3-images > .img-4{
+    width: 300px;
+    margin-top: -50px;
+    margin-left: 90px;
+}
+.section-3 > .container > .row > .col > .sec3-images > .img-5{
+    width: 300px;
+    margin-top: 36px;
+    height: 450px;
+}
+.section-3 > .container > .row > .col > .sec3-images > .img-6{
+    width: 350px;
+    margin-top: -173px;
+    margin-left: 28px;
+}
+.section-3 > .container > .row > .col > .sec3-images > .img-7{
+    width: 290px;
+    margin-left: 90px;
+    margin-top: -26px;
+}
+.section-3 > .container > .row > .col > .sec3-images > .img-8{
+    margin-left: 727px;
+    width: 351px;
+    margin-top: -321px;
+}
+.section-4{
+    background-color: black;
+}
+.section-4 > .container > .row > .col > .sec4-patalok{
+    margin-top: 108px;
+    margin-left: 112px;
+    width: 550px;
+}
+.section-4 > .container > .row > .col > .sec4-patalok > .Service{
+    font-size: 70px;
+    color: #FFC513;
+    width: 600px;
+    margin-left: -90px;
+    margin-top: -50px;
+}
+.section-5{
+    margin-top: 80px;
+}
+.section-5 > .container > .row > .col-6 > .category > .cat1 > img{
+     width: 70px;
+}
+.section-5 > .container > .row > .col-6 > .category > .cat1 > a{
+    text-decoration: none;
+    color: #FFC513;
+    margin-left: 50px;
+    font-size: 25px;
+} 
+.section-5 > .container > .row > .col-6 > .category > .cat2{
+    margin-top: 50px;
+  }
+  .section-5 > .container > .row > .col-6 > .category > .cat2 > img{
+      width: 70px;
+  } 
+  .section-5 > .container > .row > .col-6 > .category > .cat2 > a{
+    text-decoration: none;
+    color: #FFC513;
+    margin-left: 50px;
+    font-size: 25px;
+} 
+.section-5 > .container > .row > .col-6 > .category > .cat3{
+    margin-top: 50px;
+  }
+  .section-5 > .container > .row > .col-6 > .category > .cat3 > img{
+      width: 70px;
+  } 
+  .section-5 > .container > .row > .col-6 > .category > .cat3 > a{
+    text-decoration: none;
+    color: #FFC513;
+    margin-left: 50px;
+    font-size: 25px;
+} 
+.section-5 > .container > .row > .col-6 > .category > .cat4{
+    margin-top: 50px;
+  }
+  .section-5 > .container > .row > .col-6 > .category > .cat4 > img{
+      width: 70px;
+  } 
+  .section-5 > .container > .row > .col-6 > .category > .cat4 > a{
+    text-decoration: none;
+    color: #FFC513;
+    margin-left: 50px;
+    font-size: 25px;
+} 
+.section-5 > .container > .row > .col-6 > .rightcol-img{
+    width: 400px;
+    margin-left: 150px;
+    margin-top: -125px;
+}
+.section-6 > .container > .row > .col > .sec6-patalok{
+    margin-top: 150px;
+    margin-left: 250px;
+}
+.section-6 > .container > .row > .col > .sec6-patalok > .PRICE{
+    font-size: 90px;
+    color: #FFC513;
+    width: 600px;
+    margin-left: 120px;
+    margin-top: -60px;
+    font-family: 'Cormorant', serif;
+}
+.section-6 > .container > .row > .col > .sec6-patalok > img{
+    margin-left: 50px;
+    width: 400px;
+    margin-top: 40px;
+    height: 10px;
+}
+.section-7{
+  margin-top: 100px;
+}
+.section-7 > .container > .row > .col > .card > .card-body{
+    background-color: #2C2929;
+}
+.section-7 > .container > .row > .col > .card > .card-body > h2{
+    font-family: 'Cormorant', serif;
+    color: lightgoldenrodyellow;
+    text-align: center;
+    font-size: 50px;
+}
+.section-7 > .container > .row > .col > .card > .card-body > .card-text{
+    text-align: center;
+    color: white;
+    font-family: 'Cormorant', serif;
+    width: 250px;
+    font-size: 30px;
+    margin-top: 15px;
+}
+.section-7 > .container > .row > .col > .card{
+    margin-left: 30px;
+}
+.section-7 > .container > .row > .col{
+    margin-left: 45px;
+}
+.section-7 > .container > .row > .col > .card > .card-body > .card-link{
+    margin-left: 40px;
+    width: 150px;
+    background-color: #2C2929;
+    color: lightgoldenrodyellow;
+}
+.section-8 > .container > .row > .col > .sec8-patalok > p{
+    font-size: 90px;
+    color: #FFC513;
+    width: 600px;
+    margin-left: 120px;
+    margin-top: -60px;
+    font-family: 'Cormorant', serif;
+}
+.section-8 > .container > .row > .col > .sec8-patalok > img{
+    margin-top: 86px;
+    margin-left: 221px;
+    width: 670px;
+}
+.section-9 > .container > .row > .col-6 > img{
+    width: 380px;
+    margin-left: 86px;
+    margin-top: 66px;
+}
+.section-10{
+    margin-top: 50px;
+}
+.section-10 > .container > .row > .col > .sec10-patalok > img{
+    width: 577px;
+    margin-top: 50px;
+    margin-left: 253px;
+}
+.section-10 > .container > .row > .col > .sec10-patalok > p{
+    font-size: 50px;
+    color: #FFC513;
+    width: 600px;
+    margin-left: 623px;
+    margin-top: -35px;
+    font-family: 'Cormorant', serif;
+}
+.section-11 > .container > .row > .col > .contact-box{
+    width: 429px;
+    background-color: #2C2929;
+}
+.section-11 > .container > .row > .col > .contact-box > .name, .email, .massage{
+    border: none;
+    background: none;
+    outline: none;
+    border-bottom: 1px solid white;
+    color: white;
+    padding: 10px, 6px;
+}
+.section-11 > .container > .row > .col > .contact-box > .name{
+    float: left;
+    width: 170px;
+    margin-left: 20px;
+}
+.section-11 > .container > .row > .col > .contact-box > .email{
+    float: right;
+    width: 170px;
+    margin-right: 20px;
+}
+.section-11 > .container > .row > .col > img{
+    width: 385px;
+    margin-left: 654px;
+}
+.section-11 > .container > .row > .col > .contact-box > .masseges{
+
+}
